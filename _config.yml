@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /zhybz/
+baseurl: /ly2018.github.io/
 
 # Website info
 title: Ghost
@@ -14,8 +14,8 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://ly2018.github.io/zhybz/
-source_url: https://github.com/ly2018/zhybz/
+production_url: https://ly2018.github.io/ly2018.github.io/
+source_url: https://github.com/ly2018/ly2018.github.io/
 
 # Social info
 navigation: True # show the navbar links
@@ -68,12 +68,12 @@ feed:
 safe: False
 lsi: False
 username: ly2018
-repo: zhybz
+repo: ly2018.github.io
 branch: master
-relative_source: ../zhybz/
-destination: ../zhybz-pages/
-production_url:  https://ly2018.github.io/zhybz/
-source_url:  https://github.com/ly2018/zhybz/
+relative_source: ../ly2018.github.io/
+destination: ../ly2018.github.io-pages/
+production_url:  https://ly2018.github.io/ly2018.github.io/
+source_url:  https://github.com/ly2018/ly2018.github.io/
 
 exclude:
   - README.md
