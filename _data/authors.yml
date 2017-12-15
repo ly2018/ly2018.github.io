@@ -1,7 +1,7 @@
 ghost:
-  username: 曾侯乙编钟
-  name: 曾侯乙编钟
-  url_full: http://ly2018.github.io/ly2018/
+  username: 曾侯乙编钟-www.zhybz.cn
+  name: 曾侯乙编钟-www.zhybz.cn
+  url_full: http://www.zhybz.cn/
   url: ly2018.github.io/ly2018
   bio: The professional publishing platform
   picture: assets/images/ghost.png
@@ -12,7 +12,7 @@ hannah:
   username: hannah
   name: Hannah Wolfe
   location: London, UK
-  url_full: http://hannah.wf/
+  url_full: http://www.zhybz.cn/
   url: hannah.wf
   bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
   picture: assets/images/hannah.jpg
@@ -23,7 +23,7 @@ john:
   username: john
   name: John O'Nolan
   location: On a plane
-  url_full: http://john.onolan.org/
+  url_full: http://www.zhybz.cn/
   url: john.onolan.org
   bio: Founder at Ghost.org. Writes about open source, startup life, non-profits, and publishing platforms. Travels the world with a bag of kites.
   picture: assets/images/john.jpg
