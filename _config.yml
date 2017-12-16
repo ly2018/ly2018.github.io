@@ -11,9 +11,9 @@ baseurl: /ly2018.github.io/
 title: 曾侯乙编钟-www.zhybz.cn
 description: 曾侯乙编钟-www.zhybz.cn
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo: assets/images/c.jpg
+logo_dark: assets/images/c.jpg
+favicon: assets/images/c.jpg
 production_url: https://zhybz.cn/
 source_url: https://github.com/ly2018/ly2018.github.io/
 
