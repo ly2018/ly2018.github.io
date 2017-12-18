@@ -1,7 +1,7 @@
 ---
 layout: page
 current: about
-title: About
+title: 关于曾侯乙编钟-www.zhybz.cn
 navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
