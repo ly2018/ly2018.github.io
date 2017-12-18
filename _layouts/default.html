@@ -1,17 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script>
-  (function() {
-    var cx = 'partner-pub-3831837925266795:6363098180';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
 <gcse:searchbox-only></gcse:searchbox-only>
 <meta name="google-site-verification" content="NrxxhuGUcUvkH-8yw5AEOHAkwDY40-pfojvpgKW50PM" />
     <!-- Document Settings -->
@@ -37,6 +26,17 @@
 <body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %}">
 
     <div class="site-wrapper">
+<script>
+  (function() {
+    var cx = 'partner-pub-3831837925266795:6363098180';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
         {{ content }}
 
@@ -76,6 +76,18 @@
     <!-- The big email subscribe modal content -->
     {% if site.subscribers %}
         <div id="subscribe" class="subscribe-overlay">
+		<script>
+  (function() {
+    var cx = 'partner-pub-3831837925266795:5589783007';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
             <a class="subscribe-overlay-close" href="#"></a>
             <div class="subscribe-overlay-content">
                 {% if site.logo %}
