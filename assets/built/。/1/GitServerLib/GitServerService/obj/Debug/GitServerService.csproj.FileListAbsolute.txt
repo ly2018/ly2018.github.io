@@ -1,0 +1,14 @@
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerService\obj\Debug\GitServerService.csproj.CoreCompileInputs.cache
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerService\bin\Debug\GitServerService.dll
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerService\bin\Debug\GitServerService.pdb
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerService\bin\Debug\GitServerModels.dll
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerService\bin\Debug\GitServerUtillty.dll
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerService\bin\Debug\IGitServerService.dll
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerService\bin\Debug\Newtonsoft.Json.dll
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerService\bin\Debug\GitServerModels.pdb
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerService\bin\Debug\GitServerUtillty.pdb
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerService\bin\Debug\IGitServerService.pdb
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerService\bin\Debug\Newtonsoft.Json.xml
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerService\obj\Debug\GitServerService.csprojResolveAssemblyReference.cache
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerService\obj\Debug\GitServerService.dll
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerService\obj\Debug\GitServerService.pdb

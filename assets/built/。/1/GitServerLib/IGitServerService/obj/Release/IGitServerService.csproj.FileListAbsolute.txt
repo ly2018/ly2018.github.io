@@ -1,0 +1,8 @@
+E:\LY_Project\WorkPlace_2017\GitServerLib\IGitServerService\obj\Release\IGitServerService.csproj.CoreCompileInputs.cache
+E:\LY_Project\WorkPlace_2017\GitServerLib\IGitServerService\bin\Release\IGitServerService.dll
+E:\LY_Project\WorkPlace_2017\GitServerLib\IGitServerService\bin\Release\IGitServerService.pdb
+E:\LY_Project\WorkPlace_2017\GitServerLib\IGitServerService\bin\Release\GitServerModels.dll
+E:\LY_Project\WorkPlace_2017\GitServerLib\IGitServerService\bin\Release\GitServerModels.pdb
+E:\LY_Project\WorkPlace_2017\GitServerLib\IGitServerService\obj\Release\IGitServerService.csprojResolveAssemblyReference.cache
+E:\LY_Project\WorkPlace_2017\GitServerLib\IGitServerService\obj\Release\IGitServerService.dll
+E:\LY_Project\WorkPlace_2017\GitServerLib\IGitServerService\obj\Release\IGitServerService.pdb

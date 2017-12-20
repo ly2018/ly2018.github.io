@@ -1,0 +1,5 @@
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerModels\obj\Debug\GitServerModels.csproj.CoreCompileInputs.cache
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerModels\bin\Debug\GitServerModels.dll
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerModels\bin\Debug\GitServerModels.pdb
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerModels\obj\Debug\GitServerModels.dll
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerModels\obj\Debug\GitServerModels.pdb

@@ -1,0 +1,8 @@
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerUtillty\obj\Release\GitServerUtillty.csproj.CoreCompileInputs.cache
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerUtillty\bin\Release\GitServerUtillty.dll
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerUtillty\bin\Release\GitServerUtillty.pdb
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerUtillty\bin\Release\GitServerModels.dll
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerUtillty\bin\Release\GitServerModels.pdb
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerUtillty\obj\Release\GitServerUtillty.dll
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerUtillty\obj\Release\GitServerUtillty.pdb
+E:\LY_Project\WorkPlace_2017\GitServerLib\GitServerUtillty\obj\Release\GitServerUtillty.csprojResolveAssemblyReference.cache
